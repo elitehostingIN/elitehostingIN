@@ -6,7 +6,7 @@
   </a>
 
   <!-- TYPING EFFECT SUBTITLE -->
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Founder+%26+Lead+Architect+%40+Elitehosting.in;High-Performance+VPS+%26+Cloud+Servers;Ultra-Low+Latency+Bot+Hosting+India;DDoS+Protected+Infrastructure">
+  <a href="https://elitehosting.in">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Founder+%26+Lead+Architect+%40+Elitehosting.in;High-Performance+VPS+%26+Cloud+Servers;Ultra-Low+Latency+Bot+Hosting+India;DDoS+Protected+Infrastructure" alt="Typing SVG" />
   </a>
 
@@ -17,7 +17,8 @@
     <a href="https://elitehosting.in"><img src="https://img.shields.io/badge/Official_Website-elitehosting.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://elitehosting.in"><img src="https://img.shields.io/badge/Uptime-99.9%25_Guaranteed-28a745?style=for-the-badge&logo=serverless&logoColor=white" alt="Uptime" /></a>
     <a href="https://elitehosting.in"><img src="https://img.shields.io/badge/Node_Location-India_%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge" alt="Location" /></a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
+    <!-- FIXED REAL-TIME VISITOR COUNTER -->
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=abhi.elitehosting.in&left_color=0052CC&right_color=00BFFF&left_text=Profile%20Views" alt="Profile Views" />
   </p>
 
 </div>
@@ -38,8 +39,9 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
+      <!-- FIXED PINNED REPOSITORY -->
       <a href="https://elitehosting.in">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=YOUR-REPOSITORY-NAME&theme=tokyonight&show_owner=true" width="100%" alt="Elite Hosting Repo" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi&repo=elitehosting.in&theme=tokyonight&show_owner=true" width="100%" alt="Elite Hosting Pinned Repo" />
       </a>
     </td>
   </tr>
@@ -65,13 +67,14 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=cyberpunk&hide_border=true" alt="Top Languages" />
+  <!-- FIXED STATS WITH YOUR USERNAME (abhi) -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhi&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi&layout=compact&theme=cyberpunk&hide_border=true" alt="Top Languages" />
 
   <br><br>
 
-  <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=cyberpunk&hide_border=true" alt="GitHub Streak" width="95%" />
+  <!-- FIXED STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi&theme=cyberpunk&hide_border=true" alt="GitHub Streak" width="95%" />
 
 </div>
 
@@ -84,10 +87,10 @@
   <a href="https://elitehosting.in">
     <img src="https://img.shields.io/badge/Visit_Elitehosting.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR-TELEGRAM-USERNAME">
+  <a href="https://t.me/EliteHosting">
     <img src="https://img.shields.io/badge/Telegram_Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/company/elitehosting">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
