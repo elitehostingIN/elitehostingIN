@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/WEBSITE-elitehosting.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 
-<a href="https://t.me/EliteHosting">
+<a href="https://t.me/Contactelitehosting">
   <img src="https://img.shields.io/badge/TELEGRAM-SUPPORT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
@@ -166,7 +166,7 @@ I work with Linux-based environments and build infrastructure around:
   <img src="https://img.shields.io/badge/Elitehosting.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 
-<a href="https://t.me/EliteHosting">
+<a href="https://t.me/Contactelitehosting">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
