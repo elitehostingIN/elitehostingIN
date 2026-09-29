@@ -12,13 +12,13 @@
 
   <br>
 
-  <!-- DYNAMIC BADGES WITH LINKS -->
+  <!-- DYNAMIC BADGES WITH WORKING VISITOR COUNTER -->
   <p align="center">
     <a href="https://elitehosting.in"><img src="https://img.shields.io/badge/Official_Website-elitehosting.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://elitehosting.in"><img src="https://img.shields.io/badge/Uptime-99.9%25_Guaranteed-28a745?style=for-the-badge&logo=serverless&logoColor=white" alt="Uptime" /></a>
     <a href="https://elitehosting.in"><img src="https://img.shields.io/badge/Node_Location-India_%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge" alt="Location" /></a>
-    <!-- FIXED REAL-TIME VISITOR COUNTER -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=abhi.elitehosting.in&left_color=0052CC&right_color=00BFFF&left_text=Profile%20Views" alt="Profile Views" />
+    <!-- 100% WORKING VISITOR COUNTER -->
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=elitehosting.in.profile&left_color=0052CC&right_color=00BFFF&left_text=Profile%20Views" alt="Profile Views" />
   </p>
 
 </div>
@@ -29,7 +29,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3>🚀 Building the Next-Gen Hosting Platform</h3>
       <p>Founder & System Engineer at <b><a href="https://elitehosting.in">Elitehosting.in</a></b>. Designing high-speed Linux VPS infrastructure optimized for developers, bot hosting, and high-concurrency web applications.</p>
       <ul>
@@ -38,10 +38,9 @@
         <li>🛡️ <b>Security & Speed:</b> Enterprise DDoS mitigation, automated firewall rules, & automated SSL deployment.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- FIXED PINNED REPOSITORY -->
+    <td width="45%" align="center" valign="middle">
       <a href="https://elitehosting.in">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi&repo=elitehosting.in&theme=tokyonight&show_owner=true" width="100%" alt="Elite Hosting Pinned Repo" />
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/3133ff0c0a5202dd028a38c234a942a0.gif" width="100%" style="border-radius:10px;" alt="Elite Hosting Cloud Infrastructure" />
       </a>
     </td>
   </tr>
@@ -55,9 +54,9 @@
 
   | Domain | Technologies & Tools |
   | :--- | :--- |
-  | **OS & Server Control** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,bash" /> |
-  | **Backend & Bot Dev** | <img src="https://skillicons.dev/icons?i=py,nodejs,js,express,git,github" /> |
-  | **Databases & Tools** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,postman,cloudflare,vscode" /> |
+  | **OS & Server Control** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,bash&theme=dark" /> |
+  | **Backend & Bot Dev** | <img src="https://skillicons.dev/icons?i=py,nodejs,js,express,git,github&theme=dark" /> |
+  | **Databases & Tools** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,postman,cloudflare,vscode&theme=dark" /> |
 
 </div>
 
@@ -67,13 +66,12 @@
 
 <div align="center">
 
-  <!-- FIXED STATS WITH YOUR USERNAME (abhi) -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhi&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi&layout=compact&theme=cyberpunk&hide_border=true" alt="Top Languages" />
 
   <br><br>
 
-  <!-- FIXED STREAK STATS -->
+  <!-- STREAK STATS -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi&theme=cyberpunk&hide_border=true" alt="GitHub Streak" width="95%" />
 
 </div>
@@ -99,3 +97,15 @@
   <sub>© 2026 <b><a href="https://elitehosting.in">Elitehosting.in</a></b> — Powered by High-Performance Indian Cloud Servers</sub>
 
 </div>
+
+
+
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  _____ _     ___ _____ _____   _   _  ___  ____ _____ ___ _   _  ____            ║
+║ | ____| |   |_ _|_   _| ____| | | | |/ _ \/ ___|_   _|_ _| \ | |/ ___|           ║
+║ |  _| | |    | |  | | |  _|   | |_| | | | \___ \ | |  | ||  \| | |  _            ║
+║ | |___| |___ | |  | | | |___  |  _  | |_| |___) || |  | || |\  | |_| |           ║
+║ |_____|_____|___| |_| |_____| |_| |_|\___/|____/ |_| |___|_| \_|\____|           ║
+║                                                                                  ║
+║         ⚡ ULTRA-LOW LATENCY VPS • BOT HOSTING • CLOUD INFRASTRUCTURE ⚡          ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
