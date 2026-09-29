@@ -1,111 +1,165 @@
-<div align="center">
+<div align="center">  <!-- HERO HEADER -->  <a href="https://elitehosting.in">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052CC,100:00BFFF&height=220&section=header&text=ELITEHOSTING&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+      width="100%"
+      alt="Elitehosting"
+    />
+  </a>  <!-- TYPING EFFECT -->  <a href="https://elitehosting.in">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Founder+%26+Lead+Architect+%40+Elitehosting.in;High-Performance+VPS+%26+Cloud+Infrastructure;Bot+%26+Application+Hosting;Linux+%7C+Docker+%7C+Nginx+%7C+Cloudflare"
+      alt="Elitehosting Typing Animation"
+    />
+  </a>  <br>  <!-- BADGES -->  <p>
+    <a href="https://elitehosting.in">
+      <img
+        src="https://img.shields.io/badge/Website-elitehosting.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white"
+        alt="Official Website"
+      />
+    </a><a href="https://elitehosting.in">
+  <img
+    src="https://img.shields.io/badge/Infrastructure-VPS%20%26%20Cloud-00BFFF?style=for-the-badge&logo=serverless&logoColor=white"
+    alt="VPS and Cloud"
+  />
+</a>
 
-  <!-- TOP BANNER GIF / HEADER -->
-  <a href="https://elitehosting.in">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052CC,100:00BFFF&height=220&section=header&text=ELITE%20HOSTING%20HQ&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Elite Hosting Header" />
-  </a>
+<img
+  src="https://img.shields.io/badge/Region-India%20%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge"
+  alt="India"
+/>
 
-  <!-- TYPING EFFECT SUBTITLE -->
-  <a href="https://elitehosting.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Founder+%26+Lead+Architect+%40+Elitehosting.in;High-Performance+VPS+%26+Cloud+Servers;Ultra-Low+Latency+Bot+Hosting+India;DDoS+Protected+Infrastructure" alt="Typing SVG" />
-  </a>
+<img
+  src="https://visitor-badge.laobi.icu/badge?page_id=elitehosting.profile&left_color=0052CC&right_color=00BFFF&left_text=Profile%20Views"
+  alt="Profile Views"
+/>
 
-  <br>
+  </p></div>---
 
-  <!-- DYNAMIC BADGES WITH WORKING VISITOR COUNTER -->
-  <p align="center">
-    <a href="https://elitehosting.in"><img src="https://img.shields.io/badge/Official_Website-elitehosting.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://elitehosting.in"><img src="https://img.shields.io/badge/Uptime-99.9%25_Guaranteed-28a745?style=for-the-badge&logo=serverless&logoColor=white" alt="Uptime" /></a>
-    <a href="https://elitehosting.in"><img src="https://img.shields.io/badge/Node_Location-India_%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge" alt="Location" /></a>
-    <!-- 100% WORKING VISITOR COUNTER -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=elitehosting.in.profile&left_color=0052CC&right_color=00BFFF&left_text=Profile%20Views" alt="Profile Views" />
-  </p>
+⚡ About Elitehosting
 
-</div>
-
----
-
-### ⚡ About Founder & Infrastructure
-
-<table border="0">
+<table>
   <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Building the Next-Gen Hosting Platform</h3>
-      <p>Founder & System Engineer at <b><a href="https://elitehosting.in">Elitehosting.in</a></b>. Designing high-speed Linux VPS infrastructure optimized for developers, bot hosting, and high-concurrency web applications.</p>
-      <ul>
-        <li>🌐 <b>Main Portal:</b> <a href="https://elitehosting.in">https://elitehosting.in</a></li>
-        <li>⚡ <b>Specialties:</b> High-Frequency AMD Ryzen/Intel NVMe VPS, Bot Hosting (Pyrogram, Telethon, Node.js), Nginx Reverse Proxies, and Termux workflows.</li>
-        <li>🛡️ <b>Security & Speed:</b> Enterprise DDoS mitigation, automated firewall rules, & automated SSL deployment.</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <a href="https://elitehosting.in">
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/3133ff0c0a5202dd028a38c234a942a0.gif" width="100%" style="border-radius:10px;" alt="Elite Hosting Cloud Infrastructure" />
-      </a>
-    </td>
+    <td width="58%" valign="top">🚀 Building Modern Hosting Infrastructure
+
+Elitehosting.in focuses on high-performance infrastructure for developers, startups, automation projects, bots, APIs and web applications.
+
+I work on designing and operating Linux-based hosting environments with a focus on:
+
+- ⚙️ VPS & Cloud Infrastructure
+- 🐳 Docker-based Deployments
+- 🤖 Telegram Bot Hosting
+- 🌐 Nginx & Reverse Proxy Systems
+- 🔐 Firewall & Infrastructure Security
+- ☁️ Cloudflare Integrations
+- 🚀 Performance & Resource Optimization
+- 🔄 Automated Deployment Workflows
+
+🌍 Main Portal
+
+"elitehosting.in" (https://elitehosting.in)
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<a href="https://elitehosting.in">
+  <img
+    src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/3133ff0c0a5202dd028a38c234a942a0.gif"
+    width="100%"
+    alt="Cloud Infrastructure"
+  />
+</a></td>
+
   </tr>
-</table>
+</table>---
 
----
+🧰 Technology Stack
 
-### 🧰 Tech Stack & Server Environment
+<div align="center">🖥️ Infrastructure
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,bash&theme=dark" />💻 Development
 
-  | Domain | Technologies & Tools |
-  | :--- | :--- |
-  | **OS & Server Control** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,bash&theme=dark" /> |
-  | **Backend & Bot Dev** | <img src="https://skillicons.dev/icons?i=py,nodejs,js,express,git,github&theme=dark" /> |
-  | **Databases & Tools** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,postman,cloudflare,vscode&theme=dark" /> |
+<img src="https://skillicons.dev/icons?i=python,nodejs,js,express,git,github&theme=dark" />🗄️ Databases & Platforms
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,postman,cloudflare,vscode&theme=dark" /></div>---
+
+🚀 What I Build
+
+<div align="center">⚡ Infrastructure| 🤖 Automation| 🌐 Applications
+VPS Deployment| Telegram Bots| REST APIs
+Docker Systems| Bot Automation| Web Applications
+Nginx Proxy| Background Workers| Cloud Services
+Linux Optimization| Process Management| Backend Systems
+
+</div>---
+
+📊 GitHub Analytics
+
+<div align="center">  <!-- MAIN STATS --><img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+alt="GitHub Statistics"
+/>
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Top Languages"
+/>
+
+<br><br>
+
+  <!-- STREAK --><img
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+width="92%"
+alt="GitHub Streak"
+/>
+
+</div>---
+
+📈 Contribution Activity
+
+<div align="center"><img
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"
+width="100%"
+alt="GitHub Contribution Graph"
+/>
+
+</div>---
+
+🔥 Engineering Philosophy
+
+<div align="center">«Build fast. Deploy clean. Scale smart.»
+
+"Reliability" • "Performance" • "Automation" • "Security" • "Scalability"
+
+</div>---
+
+🌐 Connect With Elitehosting
+
+<div align="center">  <a href="https://elitehosting.in">
+    <img
+      src="https://img.shields.io/badge/Elitehosting.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Elitehosting Website"
+    />
+  </a>  <a href="https://t.me/EliteHosting">
+    <img
+      src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
+  </a>  <a href="https://www.linkedin.com/company/elitehosting">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a><br><br>
+
+  <sub>
+    © 2026 <a href="https://elitehosting.in"><b>Elitehosting.in</b></a>
+    — VPS • Cloud • Bot Hosting • Infrastructure
+  </sub></div>---
+
+<div align="center">⚡ ELITEHOSTING
+
+"High Performance • Reliable Infrastructure • Developer Focused"
 
 </div>
-
----
-
-### 📊 Real-Time GitHub & Developer Metrics
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhi&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi&layout=compact&theme=cyberpunk&hide_border=true" alt="Top Languages" />
-
-  <br><br>
-
-  <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi&theme=cyberpunk&hide_border=true" alt="GitHub Streak" width="95%" />
-
-</div>
-
----
-
-### 🌐 Connect With Elite Hosting
-
-<div align="center">
-
-  <a href="https://elitehosting.in">
-    <img src="https://img.shields.io/badge/Visit_Elitehosting.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://t.me/EliteHosting">
-    <img src="https://img.shields.io/badge/Telegram_Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/company/elitehosting">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <br><br>
-
-  <sub>© 2026 <b><a href="https://elitehosting.in">Elitehosting.in</a></b> — Powered by High-Performance Indian Cloud Servers</sub>
-
-</div>
-
-
-
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  _____ _     ___ _____ _____   _   _  ___  ____ _____ ___ _   _  ____            ║
-║ | ____| |   |_ _|_   _| ____| | | | |/ _ \/ ___|_   _|_ _| \ | |/ ___|           ║
-║ |  _| | |    | |  | | |  _|   | |_| | | | \___ \ | |  | ||  \| | |  _            ║
-║ | |___| |___ | |  | | | |___  |  _  | |_| |___) || |  | || |\  | |_| |           ║
-║ |_____|_____|___| |_| |_____| |_| |_|\___/|____/ |_| |___|_| \_|\____|           ║
-║                                                                                  ║
-║         ⚡ ULTRA-LOW LATENCY VPS • BOT HOSTING • CLOUD INFRASTRUCTURE ⚡          ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
